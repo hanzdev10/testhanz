@@ -108,8 +108,8 @@
         $mail->isSMTP();
         $mail->Host = 'mailout.one.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'cv@gratis-cvmaker.nl';
-        $mail->Password = 'tiptopmetis';
+        $mail->Username = 'test@gratis-cvmaker.nl';
+        $mail->Password = 'testhanz123';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 465;
 
